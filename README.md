@@ -1,5 +1,10 @@
 # NEXUS — Holographic Display Unit
 
+![Three.js](https://img.shields.io/badge/Three.js-r160-black?logo=three.js)
+![License](https://img.shields.io/badge/license-MIT-orange)
+
+**[🔴 Live Demo](https://sadiamanzoorqureshi786-ctrl.github.io/nexus-holographic-display/)**
+
 A single-file, interactive Three.js showcase: a levitating glass cube with a shader-driven hologram on a hex pedestal, over a reflective polished-concrete floor, with neon bloom, particles, and a HUD overlay.
 
 ## Features
@@ -29,7 +34,7 @@ python3 -m http.server 8000
 ## Deploy to GitHub Pages
 1. Push this repo to GitHub.
 2. Settings → Pages → Source: `main` branch, `/ (root)`.
-3. Your site will be live at `https://<username>.github.io/<repo>/`.
+3. Your site will be live at `https://sadiamanzoorqureshi786-ctrl.github.io/nexus-holographic-display/`.
 
 ## Customize
 Edit the `CONFIG` object and `modelDefs` array in `index.html` to change colors, sizes, or specimens.
@@ -37,5 +42,8 @@ Edit the `CONFIG` object and `modelDefs` array in `index.html` to change colors,
 ## Tech
 Three.js r160 (ES modules via import map), GLSL shaders, WebGL.
 
+## Author
+**Sadia** — [GitHub](https://github.com/sadiamanzoorqureshi786-ctrl)
+
 ## License
-MIT
+MIT © 2026 Sadia
